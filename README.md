@@ -6,7 +6,7 @@ Saludos terrícolas!
 I want to link GitHub subsections :)
 
 
-<"header1">
+# <"header1">
 
   
   * section 1
@@ -14,7 +14,7 @@ I want to link GitHub subsections :)
     * section 1.2
   * section 2
 
-<header2>
+## <header2>
 
 l,lñ,lñ,ll
 ñ.ñ.ñ{.ññ.
