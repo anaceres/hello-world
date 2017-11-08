@@ -22,5 +22,5 @@ l,lñ,lñ,ll
 
 # linking
 
-For further details [Check Testing Instance] (https://github.com/EUDAT-GEF/GEF/blob/master/README.md#testing_instance)
+For further details check the [Testing Instance](https://github.com/EUDAT-GEF/GEF/blob/master/README.md#testing_instance)
 
