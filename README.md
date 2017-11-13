@@ -17,9 +17,28 @@ I want to link GitHub subsections :)
 ### paran garico tiri mi cuaro :) header 2
 
 l,lñ,lñ,ll
+
 ñ.ñ.ñ{.ññ.
 
-### header2
+hay separar las secciones
+
+para ver si funciona la actualizacion o no
+
+lalalala
+
+lalalala
+
+lalalala
+
+lalalala
+
+
+lalalala
+
+
+
+
+### header3
 
 # linking
 
