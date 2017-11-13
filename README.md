@@ -14,7 +14,7 @@ I want to link GitHub subsections :)
     * section 1.2
   * section 2
 
-### header2
+### paran garico tiri mi cuaro :) header 2
 
 l,lñ,lñ,ll
 ñ.ñ.ñ{.ññ.
