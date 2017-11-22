@@ -5,8 +5,38 @@ Saludos terrícolas!
 
 I want to link GitHub subsections :)
 
+##### Table of contents
 
-# header1
+This document includes:
+
+
+
+1. [header1](#lal)
+
+   1.1 [paranga](#paranga-rico-tiri-mi-cuaro-sub-header-2)
+
+   1.2 [una gordita amigajonadita](#una-gordita-amigajonadita)
+
+   1.3 [sub - header3](#header3)
+
+2. [linking](link)
+
+# espacio de prueba
+/
+/
+
+/
+/
+
+/
+/
+
+
+/
+
+/
+
+# <a name="lal"></a>header1
 
   
   * section 1
@@ -14,7 +44,7 @@ I want to link GitHub subsections :)
     * section 1.2
   * section 2
 
-### paran garico tiri mi cuaro :) header 2
+### paranga rico tiri mi cuaro sub header 2
 
 l,lñ,lñ,ll
 
@@ -36,9 +66,12 @@ lalalala
 lalalala
 
 
+### una gordita amigajonadita
+
+se le lengua la traba
 
 
-### header3
+### sub - header3
 
 # linking
 
