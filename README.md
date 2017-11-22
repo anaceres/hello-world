@@ -11,7 +11,7 @@ This document includes:
 
 
 
-1. [header1](#lal)
+1. [header1](#hh)
 
    1.1 [paranga](#paranga-rico-tiri-mi-cuaro-sub-header-2)
 
@@ -36,7 +36,7 @@ This document includes:
 
 /
 
-# <a name="lal"></a>header1
+# <a name="hh"></a>header1
 
   
   * section 1
