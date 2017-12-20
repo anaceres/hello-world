@@ -19,7 +19,7 @@ This document includes:
 
    1.3 [sub - header3](#header3)
 
-2. [linking](link)
+2. [linking](#link)
 
 # espacio de prueba
 /
