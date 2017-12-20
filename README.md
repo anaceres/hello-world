@@ -73,7 +73,7 @@ se le lengua la traba
 
 ### sub - header3
 
-#  <a name="links"></a>linking
+# <a name="link"></a>linking
 
 For further details check the [Testing Instance](https://github.com/EUDAT-GEF/GEF/blob/master/README.md#testing_instance)
 
